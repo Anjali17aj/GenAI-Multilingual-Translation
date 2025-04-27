@@ -72,6 +72,8 @@ This application allows users to:
 
 ---
 
+Thank you
+
 ## Acknowledgements
 Google Gemini API
 gTTS - Google Text-to-Speech
